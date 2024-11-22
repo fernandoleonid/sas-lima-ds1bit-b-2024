@@ -102,9 +102,9 @@
 
 | Grupo | Tema                      | Integrantes                                     | Figma                                     | Repositório                                   | Pitch                                     |
 |-------|---------------------------|---------------------------------------------------|-------------------------------------------|------------------------------------------------|-------------------------------------------|
-| 1     |  [materia]  | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 2     |  [materia]  | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 3     | [materia] |  [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 4     | [materia] | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 5     | [materia] | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 6     | [materia] | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                       | [Link do Pitch]                          |
+| 1     | Matemática | Gustavo R. e Victor H. | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 2     | Inglês | Hugo, Fernando e Ana Júlia | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 3     | Filosofia | Vitor P. e Mohammad | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 4     | Física | Gustavo Z, Gabriel e Heloysa | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 5     | Geografia | Mariane, Rafaela e Letícia | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 6     | Língua Portuguesa | Israel, Daniel e Pedro | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                       | [Link do Pitch]                          |
